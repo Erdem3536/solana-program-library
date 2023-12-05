@@ -13,7 +13,7 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.73",
+    "@docusaurus/core": "^3.0.0",
     "@docusaurus/preset-classic": "^2.0.0-alpha.73",
     "@docusaurus/theme-search-algolia": "^2.0.0-alpha.73",
     "autocomplete.js": "^0.38.1",
