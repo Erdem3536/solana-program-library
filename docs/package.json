@@ -20,7 +20,7 @@
     "autocomplete.js": "^0.38.1",
     "clsx": "^1.1.1",
     "docusaurus-lunr-search": "^3.3.0",
-    "eslint": "^7.3.1",
+    "eslint": "^8.56.0",
     "eslint-plugin-react": "^7.28.0",
     "prettier": "^2.0.5",
     "react": "^18.0.0",
